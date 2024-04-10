@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.gettr.com/group27/tw/2021/07/03/18/2a06d82d-9af0-c33e-5a0b-a5f0f15076d9/330f9df2a8c2831b52ed8505335f2d1a_384x0.jpg" parent-code="" group-title="AO VIVO", TERÇA LIVRE
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/yFcq2Wsg0a3VRqvD5J-zXOHWXz5aEtZugo5A6ipDHFAilhF65s6tlUlBAm4wvfJcNAWoKRBI2CQ4ew4pwPcIww/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.gettr.com/group27/tw/2021/07/03/18/2a06d82d-9af0-c33e-5a0b-a5f0f15076d9/330f9df2a8c2831b52ed8505335f2d1a_384x0.jpg" parent-code="" group-title="ABRIL 2024", DIA 9 BoletimDaNoite Especial
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/SdrBJEs8NXlX48M0Cm9pXevPyoyAhx7vnENIfeL9LOmHDxzUJ-XKYXAFpu7gneadK8L9a9aqo34ZmcqYf3i3Xg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/playlist_16734032420515350987.m3u8?type=replay
